@@ -1,0 +1,2 @@
+# KCECH Research Fellows - Machine Learning for Penn Dining Halls
+All work within folder is for the purpose of my research project done over the summer for the College House research fellows program! Will add more detail to the readme as it progresses. ~
